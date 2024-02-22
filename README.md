@@ -23,4 +23,4 @@ The application can be run using the following command:
 ```bash 
 python main.py -filename='example_data' 
 ```
- The file should be a excel file in data inside data folder with the following sheets: `internet`, `water`, `gas`, and `electricity`. The application will then aggregate the bills by type and date and save then in results folder.
+ The file should be a excel file inside data folder with the following sheets: `internet`, `water`, `gas`, and `electricity`. The application will then aggregate the bills by type and date and save then in results folder. There is an example of the data typed required in data folder "example_data"
